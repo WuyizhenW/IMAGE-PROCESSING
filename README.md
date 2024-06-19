@@ -26,6 +26,6 @@
 <td>王O仁</td>
 </tr>
 </table><br>
-<img src="II_1.jpg"></img>
-<img src="II_2.jpg"></img>
-<img src="II_3.jpg" style="display:block; margin:auto;" ></img>
+<img src="image1.jpg"></img>
+<img src="image2.jpg"></img>
+<img src="image3.jpg" style="display:block; margin:auto;" ></img>
